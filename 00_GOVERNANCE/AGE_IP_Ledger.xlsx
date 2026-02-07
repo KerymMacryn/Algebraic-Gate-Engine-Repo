@@ -1,0 +1,3 @@
+| UID | Fecha | Tipo | Nivel | Título | Digital | Papel |
+|----|------|------|------|-------|--------|-------|
+| AGE-LN-2026-001-D | 07/02/26 | D | P3 | Control FF algebraico | scripts/control_logic_foundry.py | Sí |
