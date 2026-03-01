@@ -1,11 +1,11 @@
-# P1–P2 – Technical Non-Enabling Materials
+# P1 – Executive-Safe Materials
 
-## Access Level: Private (Requires Mutual NDA)
+## Access Level: Private (No NDA Required for Initial Viewing)
 
-This file links to a private repository with technical documents that are informative but non-enabling (no construction details).
+This file links to a private repository with executive-level summaries and non-technical overviews safe for sharing without NDA.
 
-- **Repository Link**: [https://github.com/KerymMacryn/02_TECHNICAL_SAFE](https://github.com/KerymMacryn/02_TECHNICAL_SAFE) (Access post-NDA)
-- **Contents Overview**: Theoretical bounds, verification results, and architectural overviews without implementation specifics.
-- **Purpose**: Allows technical evaluation under NDA protection.
+- **Repository Link**: [https://github.com/KerymMacryn/01_EXECUTIVE_SAFE](https://github.com/KerymMacryn/01_EXECUTIVE_SAFE) (Request access via GitHub if needed)
+- **Contents Overview**: High-level business plans, market analysis, and non-enabling technical abstracts.
+- **Purpose**: Facilitates initial discussions and evaluations.
 
-Disclosure requires signed NDA. Violates IP if accessed without agreement.
+Access granted on a need-to-know basis. Contact for permissions.
